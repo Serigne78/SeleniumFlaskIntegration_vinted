@@ -8,6 +8,7 @@ Ce projet utilise Flask pour créer une application web qui scrape des données 
 - **Web Scraping avec Selenium :** Le projet utilise Selenium pour automatiser le processus de scraping sur le site Vinted.fr.
 - **Affichage avec Flask :** Les données scrapées sont affichées sur une interface web créée avec Flask.
 - **Formulaire de Contact :** Les utilisateurs peuvent remplir un formulaire pour envoyer des informations telles que leur nom, e-mail, numéro de téléphone et un message au propriétaire du site.
+- **Dernières Données Jordan 4 :** Le programme récupère les données les plus récentes des produits Jordan 4 sur Vinted.
 
 ## Installation
 
