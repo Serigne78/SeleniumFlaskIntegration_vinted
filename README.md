@@ -26,7 +26,7 @@ Les utilisateurs peuvent remplir le formulaire de contact sur la page `/contact.
 
 ## Captures d'écran
 
-![Capture d'écran de l'interface web](![image](https://github.com/Serigne78/SeleniumFlaskIntegration_vinted/assets/114218586/ee7e63ef-394f-4c68-9cb3-e63449b5bb1f)
+![Capture d'écran de l'interface web](C:\Users\abo78\Pictures\Screenshots\Capture d'écran 2023-11-19 221210.png)
 )
 
 ## Auteur
