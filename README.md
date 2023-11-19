@@ -26,7 +26,7 @@ Les utilisateurs peuvent remplir le formulaire de contact sur la page `/contact.
 
 ## Captures d'écran
 
-https://pbs.twimg.com/media/F_U5L_AXwAASl2U?format=jpg&name=large
+![Capture d'écran de l'interface web](https://pbs.twimg.com/media/F_U5L_AXwAASl2U?format=jpg&name=large)
 
 ## Auteur
 
